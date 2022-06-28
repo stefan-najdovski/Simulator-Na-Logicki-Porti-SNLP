@@ -11,6 +11,7 @@ group = "me.snajdovski.snlp"
 version = "1.0-SNAPSHOT"
 
 
+
 kotlin {
     jvm {
         compilations.all {
