@@ -17,8 +17,11 @@ fun appSNLP() {
     val text = "Симулатор на Логички Порти"
    // nameOfProgramtextWithSize(text,30.sp)
     //test and gate
+    val inputsForGate: Pair<Int, Int> = Pair(1,1)
+    val firstInputVal = inputsForGate.first
+    val secndInputVal = inputsForGate.second
     val resultAndGateTest = andGateLogic(1,1)
-    printTextInWindow(1, "true and true =$resultAndGateTest",30.sp)
+    printTextInWindow(1, "$firstInputVal and $secndInputVal =$resultAndGateTest",30.sp)
 }
 
 
