@@ -8,7 +8,9 @@
 
 	- Изглед
   		<img src="https://raw.githubusercontent.com/stefan-najdovski/Simulator-Na-Logicki-Porti-SNLP/main/resources/logo/Interface_Prototype.png">
-			
+		28.06.22
+		<img src="https://raw.githubusercontent.com/stefan-najdovski/Simulator-Na-Logicki-Porti-SNLP/main/resources/logo/28062022.png">
+		
 	- Логика на Логички порти
 	- Листа на логички порти
 		- Канвас (Работна Површина)
