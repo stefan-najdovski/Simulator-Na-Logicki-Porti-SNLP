@@ -24,4 +24,4 @@
 				- Зумирање, Grid
 		- Објекти кои можат да бидат придвижени со клик на глувче
 	
-		![[Interface_Prototype.png]]
+		![[https://raw.githubusercontent.com/stefan-najdovski/Simulator-Na-Logicki-Porti-SNLP/main/resources/logo/Interface_Prototype.png]]
