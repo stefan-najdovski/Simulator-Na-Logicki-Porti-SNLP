@@ -4,10 +4,10 @@
 1. Шема (дизајн)
 	- Лого (for now)
 			- Prototype1 Претстатвува Conncetion Pin а сината линија во позадината жица. 
-			<img src="https://user-images.githubusercontent.com/83938539/176065161-064053ac-a1cd-47b3-9a8c-8efccc2aab7a.png)
+			<img src="https://user-images.githubusercontent.com/83938539/176065161-064053ac-a1cd-47b3-9a8c-8efccc2aab7a.png"  width= "80" height= "80">
 
 	- Изглед
-  		<img src="https://raw.githubusercontent.com/stefan-najdovski/Simulator-Na-Logicki-Porti-SNLP/main/resources/logo/Interface_Prototype.png" width= "80" height= "80">
+  		<img src="https://raw.githubusercontent.com/stefan-najdovski/Simulator-Na-Logicki-Porti-SNLP/main/resources/logo/Interface_Prototype.png">
 			
 	- Логика на Логички порти
 	- Листа на логички порти
